@@ -32,11 +32,10 @@ A futuristic, responsive, and animated personal portfolio built using modern fro
 
 This project’s frontend code, including UI design and implementation, is kept private to ensure the protection of original design concepts and prevent unauthorized reuse.
 
-If you're a recruiter, collaborator, or organization interested in reviewing the UI or source code for evaluation or collaboration:
+If you're a recruiter, collaborator, or organization interested in reviewing the UI or source code for evaluation or collaboration
 
+feel free to reach out:
 📧 Email: lithinmajji@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/lithin-majji-a191211b0/
-
-I’d be happy to grant access upon request.
 
 I'm happy to share access upon genuine request.
 
